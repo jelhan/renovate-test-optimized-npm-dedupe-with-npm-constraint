@@ -1,0 +1,26 @@
+{
+  "name": "renovate-test-optimized-npm-dedupe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelhan/renovate-test-optimized-npm-dedupe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jelhan/renovate-test-optimized-npm-dedupe/issues"
+  },
+  "homepage": "https://github.com/jelhan/renovate-test-optimized-npm-dedupe#readme",
+  "dependencies": {
+    "object-assign": "^4.0.0",
+    "react": "~17.0.0"
+  },
+  "engines": {
+    "npm": ">= 8.x"
+  }
+}
